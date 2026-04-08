@@ -1,6 +1,6 @@
 # Python-DSA-Journey
 
-## Day 1 - Python Basics
+# Day 1 - Python Basics
 
 Topics: Variables, Input, Type casting, Arithmetic, If statements
 
