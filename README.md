@@ -12,4 +12,5 @@ Topics: Logical Operators, Conditional (Ternary), String Methods, String Indexin
 
 #### Day 3 - Collections & Functions
 
-Topics: Collections (List, Set, Tuple, Dict), List & Set Methods, Dictionary Basics, Functions & return, Arguments (positional, default, keyword, *args, **kwargs), Iterables, Membership (in, not in), List Comprehension, help(), dir()
+Topics: 
+Collections (List, Set, Tuple, Dict), List & Set Methods, Dictionary Basics, Functions & return, Arguments (positional, default, keyword, *args, **kwargs), Iterables, Membership (in, not in), List Comprehension, help(), dir()
